@@ -9,7 +9,7 @@ Algoritmo para preparar mate:
 8.            Calentar unos segundos más.
 9.        Si T° del agua es > 75°C. Entonces
 10.           Agregar un poco de agua fría.
-11 Agrego agua en el mate con yerba.
+11. Agrego agua en el mate con yerba.
 12. Introduzco la bombilla.
 13. Cebo el primer mate.
 14. Pruebo el mate.
